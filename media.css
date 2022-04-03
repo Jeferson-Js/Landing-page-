@@ -1,0 +1,35 @@
+@media(max-width:450px) {
+    header {
+        flex-direction: column;
+    }
+
+    main {
+        flex-direction: column;
+    }
+
+    h2 {
+        font-size: 38px;
+        text-align: center;
+    }
+    form {
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    #env{
+        align-self: center;
+    }
+
+    #foto {
+        display: none;
+    }
+
+    ul {
+        display: none;
+    }
+
+    #fundo-animado {
+        display: none;
+    }
+
+}
